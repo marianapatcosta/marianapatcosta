@@ -4,8 +4,8 @@
 
 My name is Mariana Costa, a Software Developer from Portugal. I'm particularly interested in learn more and more about the development of user interfaces and Frontend technologies.
 
-- 📖 I’m currently learning **React Native**, **NextJS**, **Gatsby**, **Progressive Web Apps**
-- 📌 I'm interested in learn more about **mobile development**, **UX/UI**, **testing tools**, **Three.js**
+- 📖 I’m currently learning **React Native**, **NextJS**, **Gatsby**
+- 📌 I'm interested in learn more about **mobile development**, **UX/UI**, **testing tools**, **Progressive Web Apps**, **Three.js**
 - 💬 Ask me about: **JavaScript, TypeScript, React**
 <!-- - 👩🏻‍💻 All of my projects are available at [test.com](test.com) -->
 - 😄 Pronouns: she, her
