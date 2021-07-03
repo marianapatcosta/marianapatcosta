@@ -2,10 +2,10 @@
 
 ### 👀 About Me
 
-My name is Mariana Costa, a Software Developer. I'm particularly interested in learn more and more about the development of user interfaces and Frontend technologies.
+My name is Mariana Costa, a Software Developer from Portugal. I'm particularly interested in learning more and more about the development of user interfaces and Frontend technologies.
 
 - 📖 I’m currently learning **React Native**, **NextJS**, **Gatsby**
-- 📌 I'm interested in learn more about **mobile development**, **UX/UI**, **testing tools**, **Progressive Web Apps**, **Three.js**
+- 📌 I'm interested in learning more about **mobile development**, **UX/UI**, **testing tools**, **Progressive Web Apps**, **Three.js**
 - 💬 Ask me about: **JavaScript, TypeScript, React**
 <!-- - 👩🏻‍💻 All of my projects are available at [test.com](test.com) -->
 - 😄 Pronouns: she, her
