@@ -7,13 +7,14 @@ My name is Mariana Costa, a Software Developer from Portugal. I'm particularly i
 - 📖 I’m currently learning **React Native**, **NextJS**, **Gatsby**
 - 📌 I'm interested in learning more about **mobile development**, **UX/UI**, **testing tools**, **Progressive Web Apps**, **Three.js**
 - 💬 Ask me about: **JavaScript, TypeScript, React**
-<!-- - 👩🏻‍💻 All of my projects are available at [test.com](test.com) -->
+- 👩🏻‍💻 My projects are available [here](https://mariana-costa.web.app) 
 - 😄 Pronouns: she, her
 - ❤️ Favourite emoji: 🤩
 - ⚡ Fun fact: Going back in time, I was a lab researcher and worked with THC and placentas
 - 📫 How to reach me:
   <br/><br/>
-  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0D66C2?style=flat&labelColor=0D66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianapatcosta/) <!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-a18dbb?style=flat&labelColor=a18dbb&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAXCAMAAABd273TAAAATlBMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BQlxstAAAAGXRSTlMAECAwQE9QX2Bwf4CPkJ%2Bgr7C%2Bv87P3%2B7vn8lm%2FgAAAORJREFUeNpiQAGAOskCSXIYhqIyBBvCWr37H3QH4rJ7AioIvF%2FC39PJTQS1IC2YuxEoTKIY8Zq3GBbR112NjcYYeXW8pNGzyGN7%2FprJG8tFhUlGUPHoANNJMNDJC97iMKC5aCFKhErEAEIGLk0N3y9t8ysFLb3p%2Fh7YSjF4F57eY%2Bl7AarCt71ExyvPWyo4Rf3%2BWvbXYmNIfMtclpx1pJEzly0PZvhU65OLkcYNaOKlftuIw5KyZtqFhQv0bZ4yjdMYazbOA6D5FLgnPKWEH%2FVVrrr43vh360xnALOX2%2FCLjn9d%2BQWtDxGaBrPKjgAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://www.linkedin.com/in/marianapatcosta/) -->
+  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0D66C2?style=flat&labelColor=0D66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianapatcosta/)
+  [![Portfolio Badge](https://img.shields.io/badge/Website-a18dbb?style=flat&labelColor=a18dbb&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAXCAMAAABd273TAAAATlBMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BQlxstAAAAGXRSTlMAECAwQE9QX2Bwf4CPkJ%2Bgr7C%2Bv87P3%2B7vn8lm%2FgAAAORJREFUeNpiQAGAOskCSXIYhqIyBBvCWr37H3QH4rJ7AioIvF%2FC39PJTQS1IC2YuxEoTKIY8Zq3GBbR112NjcYYeXW8pNGzyGN7%2FprJG8tFhUlGUPHoANNJMNDJC97iMKC5aCFKhErEAEIGLk0N3y9t8ysFLb3p%2Fh7YSjF4F57eY%2Bl7AarCt71ExyvPWyo4Rf3%2BWvbXYmNIfMtclpx1pJEzly0PZvhU65OLkcYNaOKlftuIw5KyZtqFhQv0bZ4yjdMYazbOA6D5FLgnPKWEH%2FVVrrr43vh360xnALOX2%2FCLjn9d%2BQWtDxGaBrPKjgAAAABJRU5ErkJggg%3D%3D&logoColor=white)](https://mariana-costa.web.app/)
   <br/><br/>
 
 ### ⚙️ Main Technologies
