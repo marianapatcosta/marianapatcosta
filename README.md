@@ -6,7 +6,7 @@ My name is Mariana Costa, I'm a Software Developer from Portugal. I'm particular
 
 - 📖 I’m currently learning **React Native**, **NextJS**, **Gatsby**
 - 📌 I'm interested in learning more about **mobile development**, **UX/UI**, **testing tools**, **Progressive Web Apps**, **Three.js**
-- 💬 Ask me about: **JavaScript, TypeScript, React**
+- 💬 Ask me about: **JavaScript, TypeScript, React, Vue**
 - 👩🏻‍💻 My projects are available [here](https://mariana-costa.web.app) 
 - 😄 Pronouns: she, her
 - ❤️ Favourite emoji: 🤩
