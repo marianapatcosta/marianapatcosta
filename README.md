@@ -4,7 +4,7 @@
 
 My name is Mariana Costa, I'm a Software Developer from Portugal. I'm particularly interested in learning more and more about the development of user interfaces and Frontend technologies.
 
-- 📖 I’m currently learning *Flutter**
+- 📖 I’m currently learning *Flutter*
 - 📌 I'm interested in learning more about **mobile development**, **UX/UI**, **testing tools**
 - 💬 Ask me about: **JavaScript, TypeScript, React, Vue**
 - 👩🏻‍💻 My projects are available [here](https://mariana-costa.web.app) 
